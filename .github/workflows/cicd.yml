@@ -112,7 +112,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: khasimshaik/bankapp:latest
+          tags: Khasimshaik1316/bankapp:latest
 
 
 
